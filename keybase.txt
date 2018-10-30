@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dloddlod
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.bsdpro.net
+  * I am dloddlod (https://keybase.io/dloddlod) on keybase.
+  * I have a public key ASCQbRQPP9yWgCs7hNisS_64XlOkUVvY7xuw37J7WmDQHgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120906d140f3fdc96802b3b84d8ac4bfeb85e53a4515bd8ef1bb0dfb27b5a60d01e0a",
+      "host": "keybase.io",
+      "kid": "0120906d140f3fdc96802b3b84d8ac4bfeb85e53a4515bd8ef1bb0dfb27b5a60d01e0a",
+      "uid": "2267bb3b798ef75ee2cb4ec8c52e2e19",
+      "username": "dloddlod"
+    },
+    "merkle_root": {
+      "ctime": 1540581989,
+      "hash": "9e40a184396eee6dc139e6635846a44c3ea3c35a07f76670e6f2b86f0d9a56af331dde564e27ae3e2ce74e184f568b6aa3f3c70b982a4ec724c3c33bb89b7a8e",
+      "hash_meta": "0d1b07f6858fd556e4e4b3af4668521b8a69b4272e92e2db3743f3a7982fd3ab",
+      "seqno": 3855665
+    },
+    "service": {
+      "entropy": "iJtfOqGNLdIS5H2J/fG59ymn",
+      "hostname": "www.bsdpro.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.8.0"
+  },
+  "ctime": 1540582084,
+  "expire_in": 504576000,
+  "prev": "d6367d2935e47d2ec7411d44d337763aa0baf0e24b9ac9a2c4e6d84957acb9ef",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkG0UDz/cloArO4TYrEv+uF5TpFFb2O8bsN+ye1pg0B4Kp3BheWxvYWTESpcCFcQg1jZ9KTXkfS7HQR1E0zd2OqC68OJLmsmixObYSVesue/EIGhZIvgQiKUxdXGvtNOhpAvZabJgWh8ujrl0SXlF3x+iAgHCo3NpZ8RAmwl+y0NLbB8910W00sxsd5CkgTxJJcKrO7CrJoYs8NJ9AHdi0ydTHcDyJ63kWcTQuSH8oyTCwoazqFoQOKuJBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID1lxK6AG+Z4eySHfmXtiFmaz2bJ6FT9iAMU96ABLfVEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dloddlod
+
+==================================================================
